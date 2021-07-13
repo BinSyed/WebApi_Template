@@ -2,36 +2,30 @@
 
 Web api template for to start your development immediatly.
 
+## Features - WIP
+- [x] Onion Architecture
+- [x] CQRS with MediatR Library
+- [x] Entity Framework Core - Code First
+- [x] Repository Pattern - Generic
+- [x] MediatR Pipeline Logging & Validation
+- [x] Serilog
+- [x] Swagger UI
+- [x] Response Wrappers
+- [x] Healthchecks
+- [x] Pagination
+- [ ] In-Memory Caching
+- [ ] Redis Caching
+- [x] In-Memory Database
+- [x] Microsoft Identity with JWT Authentication
+- [x] Role based Authorization
+- [x] Identity Seeding
+- [x] Database Seeding
+- [x] Custom Exception Handling Middlewares
+- [x] API Versioning
+- [x] Fluent Validation
+- [x] Automapper
+- [x] SMTP / Mailkit / Sendgrid Email Service
+- [x] Complete User Management Module (Register / Generate Token / Forgot Password / Confirmation Mail)
+- [x] User Auditing
 
-# tech stack - WIP
-
-I am going to cover all the below features,
-
-
- Clean Architecture
- CQRS with MediatR Library
- Entity Framework Core - Code First
- Repository Pattern - Generic
- MediatR Pipeline Logging & Validation
- Serilog
- Swagger UI
- Response Wrappers
- Healthchecks
- Pagination
- In-Memory Caching
- Redis Caching
- In-Memory Database
- Microsoft Identity with JWT Authentication
- Role based Authorization
- Identity Seeding
- Database Seeding
- Custom Exception Handling Middlewares
- API Versioning
- Fluent Validation
- Automapper
- SMTP / Mailkit / Sendgrid Email Service
- Complete User Management Module (Register / Generate Token / Forgot Password / Confirmation Mail)
- User Auditing
-  
- 
  
