@@ -32,6 +32,6 @@ I am going to cover all the below features,
  SMTP / Mailkit / Sendgrid Email Service
  Complete User Management Module (Register / Generate Token / Forgot Password / Confirmation Mail)
  User Auditing
- 
+  
  
  
